@@ -10,6 +10,8 @@ import java.util.logging.Level;
 
 public class Run {
 
+	
+	
 	public static void main(String[] args) {
 		File fileOut = new File("./out.sql");
 	    File fileIn = new File("./in.sql");        
